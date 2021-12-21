@@ -1,1 +1,1 @@
-# predicting_housing_prices
+Predicting housing prices / EDA
